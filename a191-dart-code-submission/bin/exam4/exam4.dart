@@ -26,8 +26,8 @@ class DicodingStudent {
 dynamic createStudent() {
   // TODO 3
 
-  final studentDicoding = DicodingStudent('agun', 21);
-  return studentDicoding;
+  final dicodingStudent = DicodingStudent('agun', 21);
+  return dicodingStudent;
 
   // End of TODO 3
 }
